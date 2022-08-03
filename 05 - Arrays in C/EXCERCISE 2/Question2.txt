@@ -1,0 +1,9 @@
+* Make an array of 101 elements 
+* Enter numbers from 0 to 99 (one number is repeated)
+* Loop on the array one time ony
+* Search for a number
+	- if the number is present (Number is found  )
+	- if the number is not presnt Print ( Number not found )
+
+
+ 

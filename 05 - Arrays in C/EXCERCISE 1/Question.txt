@@ -1,0 +1,7 @@
+* Make an array of 20 elements 
+* Enter numbers from 0 to 9
+
+* (Number N is found  X times i )
+
+
+ 
